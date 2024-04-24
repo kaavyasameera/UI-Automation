@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-24T10:01:36 IST" name="AutomationSuite" finished-at="2024-04-24T10:02:07 IST" duration-ms="31292">
+    <groups>
+    </groups>
+    <test started-at="2024-04-24T10:01:36 IST" name="Test" finished-at="2024-04-24T10:02:07 IST" duration-ms="31292">
+      <class name="UI_Automation_Test.test.automation.ui.VerifyingExistingUser">
+        <test-method signature="verifyExistingUser()[pri:0, instance:UI_Automation_Test.test.automation.ui.VerifyingExistingUser@53045c6c]" started-at="2024-04-24T10:01:52 IST" name="verifyExistingUser" finished-at="2024-04-24T10:01:59 IST" duration-ms="7190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyExistingUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:UI_Automation_Test.test.automation.ui.VerifyingExistingUser@53045c6c]" started-at="2024-04-24T10:01:59 IST" name="tearDown" finished-at="2024-04-24T10:02:00 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- UI_Automation_Test.test.automation.ui.VerifyingExistingUser -->
+      <class name="UI_Automation_Test.test.automation.ui.UserRegistrationWithoutFillingMandatoryDetails">
+        <test-method signature="verifyRegisterUser()[pri:0, instance:UI_Automation_Test.test.automation.ui.UserRegistrationWithoutFillingMandatoryDetails@2892d68]" started-at="2024-04-24T10:01:36 IST" name="verifyRegisterUser" finished-at="2024-04-24T10:01:48 IST" duration-ms="12093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:UI_Automation_Test.test.automation.ui.UserRegistrationWithoutFillingMandatoryDetails@2892d68]" started-at="2024-04-24T10:01:48 IST" name="tearDown" finished-at="2024-04-24T10:01:49 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- UI_Automation_Test.test.automation.ui.UserRegistrationWithoutFillingMandatoryDetails -->
+      <class name="UI_Automation_Test.test.automation.ui.VerifyNextButtonEnabled">
+        <test-method signature="verifyNextButtonEnabled()[pri:0, instance:UI_Automation_Test.test.automation.ui.VerifyNextButtonEnabled@6bbe85a8]" started-at="2024-04-24T10:02:04 IST" name="verifyNextButtonEnabled" finished-at="2024-04-24T10:02:07 IST" duration-ms="3046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNextButtonEnabled -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:UI_Automation_Test.test.automation.ui.VerifyNextButtonEnabled@6bbe85a8]" started-at="2024-04-24T10:02:07 IST" name="tearDown" finished-at="2024-04-24T10:02:07 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- UI_Automation_Test.test.automation.ui.VerifyNextButtonEnabled -->
+      <class name="UI_Automation_Test.test.automation.ui.VerifyStateDropDownContainsDuplicateValues">
+        <test-method signature="verifyRegisterUser()[pri:0, instance:UI_Automation_Test.test.automation.ui.VerifyStateDropDownContainsDuplicateValues@5149d738]" started-at="2024-04-24T10:02:00 IST" name="verifyRegisterUser" finished-at="2024-04-24T10:02:04 IST" duration-ms="4395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:UI_Automation_Test.test.automation.ui.VerifyStateDropDownContainsDuplicateValues@5149d738]" started-at="2024-04-24T10:02:04 IST" name="tearDown" finished-at="2024-04-24T10:02:04 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- UI_Automation_Test.test.automation.ui.VerifyStateDropDownContainsDuplicateValues -->
+      <class name="UI_Automation_Test.test.automation.ui.EmailIdvalidation">
+        <test-method signature="validateEmailAddress()[pri:0, instance:UI_Automation_Test.test.automation.ui.EmailIdvalidation@795509d9]" started-at="2024-04-24T10:01:49 IST" name="validateEmailAddress" finished-at="2024-04-24T10:01:52 IST" duration-ms="3317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEmailAddress -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:UI_Automation_Test.test.automation.ui.EmailIdvalidation@795509d9]" started-at="2024-04-24T10:01:52 IST" name="tearDown" finished-at="2024-04-24T10:01:52 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- UI_Automation_Test.test.automation.ui.EmailIdvalidation -->
+    </test> <!-- Test -->
+  </suite> <!-- AutomationSuite -->
+</testng-results>
